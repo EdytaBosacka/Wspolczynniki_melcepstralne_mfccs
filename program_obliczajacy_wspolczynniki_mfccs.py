@@ -13,7 +13,7 @@ import numpy
 import librosa
 
 directory = 'E:/Nagrania'
-resultsDirectory = directory + "/MFCCresults"
+resultsDirectory = directory + "/MFCCsresult"
 
 for filename in os.listdir(directory):
     if filename.endswith('.wav'):
