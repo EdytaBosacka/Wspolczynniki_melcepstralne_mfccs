@@ -1,0 +1,1 @@
+# Wspolczynniki_melcepstralne_mfccs
